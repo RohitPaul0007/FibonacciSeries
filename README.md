@@ -1,5 +1,5 @@
 # FibonacciSeries
-// Find out Fibonacci Series
+// Find Out Fibonacci Series
 function printFibonacciSeries(n){
     let n1=0;
     let n2=1;
