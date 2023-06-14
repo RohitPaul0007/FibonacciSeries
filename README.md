@@ -1,4 +1,4 @@
-# FibonacciSeries
+# FIBONACCI SERIES
 // Find Out Fibonacci Series
 function printFibonacciSeries(n){
     let n1=0;
